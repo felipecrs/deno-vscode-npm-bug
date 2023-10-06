@@ -1,0 +1,2 @@
+# deno creates this folder automatically to store chrono-node, that's wrong
+node_modules
